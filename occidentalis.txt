@@ -1,0 +1,5 @@
+# hostname for your Hypriot Raspberry Pi:
+hostname=VooDind
+# basic wireless networking options:
+wifi_ssid=VooNet
+wifi_password=hoMe999728878

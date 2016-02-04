@@ -1,0 +1,5 @@
+*.img
+*.img.zip
+*.tar.gz
+.vagrant/
+.DS_Store
